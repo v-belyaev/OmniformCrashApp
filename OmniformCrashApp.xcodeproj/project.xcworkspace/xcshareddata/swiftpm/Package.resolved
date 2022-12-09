@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "omniform",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/glukianets/Omniform",
+      "state" : {
+        "revision" : "aecd95bf2276f7aac80140b0a5dac137cbf534c3",
+        "version" : "0.3.0"
+      }
+    }
+  ],
+  "version" : 2
+}
